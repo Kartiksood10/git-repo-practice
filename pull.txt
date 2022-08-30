@@ -1,0 +1,7 @@
+Once you do changes in your branch do following things to generate pull request to main branch
+Never do git pull/ git pull origin kartik on Master branch
+
+git pull origin master 
+git add .
+git commit -m "hello"
+git push origin kartik
