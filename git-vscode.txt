@@ -1,0 +1,6 @@
+Commands to merge github and vs code terminal
+git init
+git add .
+git commit -m "Initial repo"
+git remote add origin https://github.com/Kartiksood10/repo-practice.git
+git push -u origin master

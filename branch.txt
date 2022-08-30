@@ -1,0 +1,7 @@
+Creating a new branch and pushing changes
+git checkout -b kartik
+git branch - to view current branch
+git switch master - to switch to master branch
+git add .
+git commit -m "new file"
+git push origin kartik
