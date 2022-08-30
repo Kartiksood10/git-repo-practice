@@ -1,5 +1,6 @@
 Once you do changes in your branch do following things to generate pull request to main branch
 Never do git pull/ git pull origin kartik on Master branch
+If pull request pop up does not come go to branch -> contribute -> generate pull request
 
 git pull origin master 
 git add .
